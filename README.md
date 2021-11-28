@@ -40,7 +40,7 @@ Software Engineering is something which coincides with my passion and hobby. Alw
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis"></code> 
 </code>  -->
 
-### Projects and Dev Stuffs: 
+<!-- ### Projects and Dev Stuffs: 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -130,3 +130,4 @@ Software Engineering is something which coincides with my passion and hobby. Alw
 ### Thank you for reading, Share your ❤️ by starring some of the repositories! 🌟
 
 </div>
+ -->
