@@ -9,7 +9,7 @@
 
 Software Engineering is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. I'm currently into Web Development 🕸️ and working with Flutter framework.
   
-<img align="right" alt="Coding Cat" src="./images/coding.webp" />
+<img align="right" alt="Coding Monkey" src="./images/coding.gif" />
 
 ### Talking about Personal Stuffs:
 
