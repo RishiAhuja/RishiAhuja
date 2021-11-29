@@ -109,7 +109,7 @@ Software Engineering is something which coincides with my passion and hobby. Alw
   <summary><b>✍🏼 Recent Published Blogs</b></summary>
 
   <!-- BLOG-POST-LIST:START -->
-- [How to use ES6 import syntax in Node.js](https://akashrajpurohit.com/blog/how-to-use-es6-import-syntax-in-nodejs)
+<!-- - [How to use ES6 import syntax in Node.js](https://akashrajpurohit.com/blog/how-to-use-es6-import-syntax-in-nodejs)
 - [Increase Root Partition Size On Fedora](https://akashrajpurohit.com/blog/increase-root-partition-size-on-fedora)
 - [Backup Users Home Directory In Linux Using Tar Command](https://akashrajpurohit.com/blog/backup-users-home-directory-in-linux-using-tar-command)
 - [Disable Source Maps in GatsbyJs V2 for Production.](https://akashrajpurohit.com/blog/disable-source-maps-in-gatsbyjs-v2)
@@ -122,7 +122,7 @@ Software Engineering is something which coincides with my passion and hobby. Alw
 <!-- BLOG-POST-LIST:END -->  
 
 </details>  
-
+ -->
 ---
 
 <div align="center">
