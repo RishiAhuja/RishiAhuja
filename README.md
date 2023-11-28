@@ -16,7 +16,7 @@ Software Engineering is something which coincides with my passion and hobby. Alw
 - 🛠 &nbsp; I’m currently working with Flutter, Dart, Firebase etc.
 - 🚀 &nbsp; I’m currently learning Animations with flutter
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RishiAhuja).
-- 👾 &nbsp; Fun fact: I am 14.
+- 👾 &nbsp; Fun fact: I am 16.
 - 📫 &nbsp; How to reach me: www.rishiahuja@gmail.com
 
 ### My Absolute Favorites:
