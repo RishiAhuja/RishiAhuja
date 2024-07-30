@@ -7,21 +7,20 @@
   
 ### Glad to see you here! &nbsp;
 
-Software Engineering is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. I'm currently into Web Development 🕸️ and working with Flutter framework.
+Software Engineering is something that coincides with my passion and hobby. Always up for a discussion on software, business, and other opportunities. I'm currently into C++ 🕸️.
   
 <img align="right" alt="Coding Monkey" src="./images/coding.gif" />
 
-### Talking about Personal Stuffs:
+### More Stuff:
 
-- 🛠 &nbsp; I’m currently working with Flutter, Dart, Firebase etc.
-- 🚀 &nbsp; I’m currently learning Animations with flutter
+- 🛠 &nbsp; I’m currently working in C++, and linux.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RishiAhuja).
 - 👾 &nbsp; Fun fact: I am 16.
 - 📫 &nbsp; How to reach me: www.rishiahuja@gmail.com
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and developing new stuffs
+- 💻 &nbsp; I love exploring new tech stacks and developing new stuff
 - 📰 &nbsp; Reading & writing tech blogs whenever possible
 - 🍕 &nbsp; I love cooking and tasting new things
 - 🎨 &nbsp; I also love drawing and improving.
