@@ -14,7 +14,7 @@ Software Engineering is something that coincides with my passion and hobby. Alwa
 ### More Stuff:
 
 - 🛠 &nbsp; I’m currently working in C++, and linux.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RishiAhuja).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [portfolio](https://rishiahuja.github.io/my-portfolio).
 - 👾 &nbsp; Fun fact: I am 16.
 - 📫 &nbsp; How to reach me: www.rishiahuja@gmail.com
 
