@@ -11,11 +11,13 @@ Software Engineering is something that coincides with my passion and hobby. Alwa
   
 <img align="right" alt="Coding Monkey" src="./images/coding.gif" />
 
+### 🔧 Technologies:
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,cs,unity,bash,git,github,linux,md,arch,notion,obsidian,&theme=dark)](https://skillicons.dev)
+
 ### More Stuff:
 
-- 🛠 &nbsp; I’m currently working in C++, and linux.
+- 🛠 &nbsp; I’m currently working in C++, and Flutter.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [portfolio](https://rishiahuja.github.io/my-portfolio).
-- 👾 &nbsp; Fun fact: I am 16.
 - 📫 &nbsp; How to reach me: www.rishiahuja@gmail.com
 
 ### My Absolute Favorites:
