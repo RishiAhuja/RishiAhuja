@@ -9,7 +9,7 @@
 
 Software Engineering is something that coincides with my passion and hobby. Always up for a discussion on software, business, and other opportunities. I'm currently into C++ 🕸️.
   
-<img align="right" alt="Coding Monkey" src="./images/coding.gif" />
+<img align="center" alt="Coding Monkey" src="./images/coding.gif" /><br>
 
 ### 🔧 Technologies:
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,cs,unity,bash,git,github,linux,md,arch,notion,obsidian,&theme=dark)](https://skillicons.dev)
