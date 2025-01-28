@@ -6,7 +6,7 @@
   
 ### Glad to see you here! &nbsp;
 
-Software Engineering is something that coincides with my passion and hobby. Always up for a discussion on software, business, and other opportunities. I'm currently into C++ 🕸️.
+Software Engineering is something that coincides with my passion and hobby. Always up for a discussion on software, business, and other opportunities. I'm currently into Flutter and Zig 🕸️.
   
 <img align="center" alt="Coding Monkey" src="./images/coding.gif" /><br>
 
@@ -15,7 +15,7 @@ Software Engineering is something that coincides with my passion and hobby. Alwa
 
 ### More Stuff:
 
-- 🛠 &nbsp; I’m currently working in C++, and Flutter.
+- 🛠 &nbsp; I’m currently working in Zig, and Flutter.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [portfolio](https://rishiahuja.github.io/my-portfolio).
 - 📫 &nbsp; How to reach me: www.rishiahuja@gmail.com
 
