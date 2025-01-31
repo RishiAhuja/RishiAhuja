@@ -1,7 +1,7 @@
 ## Hey <img alt="Hi" src="./images/Hi.gif" width="30px" />, I'm Rishi Ahuja 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-ahuja-b1a224310/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rishiahuja.github.io/my-portfolio)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rishia.in)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Rishi2220)
   
 ### Glad to see you here! &nbsp;
@@ -16,7 +16,7 @@ Software Engineering is something that coincides with my passion and hobby. Alwa
 ### More Stuff:
 
 - 🛠 &nbsp; I’m currently working in Zig, and Flutter.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [portfolio](https://rishiahuja.github.io/my-portfolio).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [portfolio](https://rishia.in).
 - 📫 &nbsp; How to reach me: www.rishiahuja@gmail.com
 
 ### My Absolute Favorites:
