@@ -11,7 +11,7 @@ Software Engineering is something that coincides with my passion and hobby. Alwa
 <img align="center" alt="Coding Monkey" src="./images/coding.gif" /><br>
 
 ### 🔧 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,cs,unity,bash,git,github,linux,md,arch,notion,obsidian,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,js,nodejs,express,mongodb,cs,unity,py,bash,git,github,gradle,npm,postman,linux,md,arch,notion,obsidian,&theme=dark)](https://skillicons.dev)
 
 ### More Stuff:
 
