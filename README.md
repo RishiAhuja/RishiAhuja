@@ -15,7 +15,8 @@ Software Engineering is something that coincides with my passion and hobby. Alwa
 
 ### More Stuff:
 
-- 🛠 &nbsp; I’m currently working in Zig, and Flutter.
+- 🛠 &nbsp; I’m currently working in Flutter, Dart, and MERN.
+- 🚀 &nbsp; I’m currently building on [NeoPrismLabs](https://neoprismlabs.in)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [portfolio](https://rishia.in).
 - 📫 &nbsp; How to reach me: www.rishiahuja@gmail.com
 
