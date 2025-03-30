@@ -6,12 +6,12 @@
   
 ### Glad to see you here! &nbsp;
 
-Software Engineering is something that coincides with my passion and hobby. Always up for a discussion on software, business, and other opportunities. I'm currently into Flutter and Zig 🕸️.
+Software Engineering is something that coincides with my passion and hobby. Always up for a discussion on software, business, and other opportunities. I'm currently into Flutter and MERN 🕸️.
   
 <img align="center" alt="Coding Monkey" src="./images/coding.gif" /><br>
 
 ### 🔧 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,js,nodejs,express,mongodb,cs,unity,py,bash,git,github,gradle,npm,postman,linux,md,arch,notion,obsidian,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,js,react,nodejs,express,mongodb,cs,unity,py,bash,git,github,gradle,npm,postman,linux,md,arch,notion,obsidian,&theme=dark)](https://skillicons.dev)
 
 ### More Stuff:
 
