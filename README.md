@@ -1,35 +1,48 @@
-## Hey <img alt="Hi" src="./images/Hi.gif" width="30px" />, I'm Rishi Ahuja 👨‍💻
+# Rishi Ahuja
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-ahuja-b1a224310/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rishia.in)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Rishi2220)
-  
-### Glad to see you here! &nbsp;
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishi-ahuja-b1a224310/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rishi%20Ahuja-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="https://rishia.in" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-rishia.in-brightgreen?style=flat-square&logo=google-chrome"></a>
+  <a href="https://rishi2220.hashnode.dev" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-Technical%20Writing-2962FF?style=flat-square&logo=hashnode"></a>
+  <a href="mailto:rishia.it.24@nitj.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail"></a>
+</p>
 
-Software Engineering is something that coincides with my passion and hobby. Always up for a discussion on software, business, and other opportunities. I'm currently into Flutter and MERN 🕸️.
-  
-<img align="center" alt="Coding Monkey" src="./images/coding.gif" /><br>
+---
 
-### 🔧 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,js,react,nodejs,express,mongodb,cs,unity,py,bash,git,github,gradle,npm,postman,linux,md,arch,notion,obsidian,&theme=dark)](https://skillicons.dev)
+Information Technology undergraduate student at Dr. B R Ambedkar National Institute of Technology Jalandhar.
 
-### More Stuff:
+I possess a strong interest in software development, with a primary focus on creating efficient, cross-platform mobile applications using **Flutter**. My experience extends to developing backend systems and exploring performance optimization techniques. I am committed to applying best practices, including clean architecture and robust state management, to build scalable and maintainable software solutions.
 
-- 🛠 &nbsp; I’m currently working in Flutter, Dart, and MERN.
-- 🚀 &nbsp; I’m currently building on [NeoPrismLabs](https://neoprismlabs.in)
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [portfolio](https://rishia.in).
-- 📫 &nbsp; How to reach me: www.rishiahuja@gmail.com
+---
 
-### My Absolute Favorites:
+### Technical Skills
 
-- 💻 &nbsp; I love exploring new tech stacks and developing new stuff
-- 📰 &nbsp; Reading & writing tech blogs whenever possible
-- 🍕 &nbsp; I love cooking and tasting new things
-- 🎨 &nbsp; I also love drawing and improving.
+My technical expertise includes the following areas:
 
-<div align="center">
+*   **Mobile Development:** Flutter, Dart, Riverpod, GetX, BLoC, Firebase Integration
+*   **Web & Backend:** Node.js, Express.js, Next.js, React.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Firebase, MongoDB, Appwrite, RESTful API Design
+*   **Programming Languages:** C, C++, Python, Bash Scripting
+*   **Tools & Platforms:** Git, GitHub, Docker, Linux (Arch Linux), VS Code, Postman, CMake
 
-### Thank you for reading, Share your ❤️ by starring some of the repositories! 🌟
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,cs,unity,py,bash,git,github,gradle,npm,postman,linux,md,arch,notion,obsidian&perline=10&theme=light" />
+  </a>
+</p>
 
-</div>
+---
 
+### Projects
+
+I am actively developing various projects demonstrating my skills in mobile, web, and system-level programming. Please explore my pinned repositories and public contributions here on GitHub for examples of my work.
+
+---
+
+### Contact & Portfolio
+
+*   **Portfolio:** [rishia.in](https://rishia.in)
+*   **LinkedIn:** [linkedin.com/in/rishi-ahuja-b1a224310](https://www.linkedin.com/in/rishi-ahuja-b1a224310/)
+*   **Blog:** [rishi2220.hashnode.dev](https://rishi2220/hashnode.dev/)
+*   **Email:** [rishia.it.24@nitj.ac.in](mailto:rishia.it.24@nitj.ac.in)
+
+---
