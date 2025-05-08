@@ -26,7 +26,7 @@ My technical expertise includes the following areas:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,cs,unity,py,bash,git,github,gradle,npm,postman,linux,md,arch,notion,obsidian&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,cs,unity,py,postgres,prisma,bash,git,github,gradle,npm,postman,linux,md,arch,notion,obsidian&perline=10&theme=light" />
   </a>
 </p>
 
