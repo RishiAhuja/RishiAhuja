@@ -22,11 +22,11 @@ My technical expertise includes the following areas:
 *   **Mobile Development:** Flutter, Dart, Riverpod, GetX, BLoC, Firebase Integration
 *   **Web & Backend:** Node.js, Express.js, Next.js, React.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Firebase, MongoDB, Appwrite, RESTful API Design
 *   **Programming Languages:** C, C++, Python, Bash Scripting
-*   **Tools & Platforms:** Git, GitHub, Docker, Linux (Arch Linux), VS Code, Postman, CMake
+*   **Tools & Platforms:** Git, GitHub, Linux (Arch Linux), VS Code, Postman, CMake
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,cs,unity,py,postgres,prisma,bash,git,github,gradle,npm,postman,linux,md,arch,notion,obsidian&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,androidstudio,c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,cs,unity,next,postgres,prisma,bash,git,github,gradle,npm,postman,linux,md,arch,notion,obsidian&perline=10&theme=light" />
   </a>
 </p>
 
