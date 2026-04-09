@@ -27,7 +27,7 @@ My work lives at the intersection of systems engineering, infrastructure, and ap
 **ML & Systems:** Python, HPC infrastructure, retrieval-augmented pipelines  
 **Also explored:** Solidity, low-level networking, WebAssembly, systems tooling  
 
-I pick tools based on what the system actually needs — not what's trending.
+I pick tools based on what the system actually needs, not what's trending.
 
 ---
 
