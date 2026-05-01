@@ -14,8 +14,6 @@ Currently a Software Engineer at Zenbase Technologies (Singapore), where I archi
 
 Previously an Entrepreneur in Residence at iHub-AWaDH (IIT Ropar), where I led the technical development of an Agri-Tech venture — translating research into deployable products, defining system architecture, and presenting roadmaps to high-level government delegations.
 
-On the research side, I have a first-authored workshop paper accepted at ICLR 2026 (a CORE A* venue). My research sits at the intersection of time series forecasting and retrieval-augmented systems — with a focus on making the case for architectural choices over naive scaling.
-
 My work lives at the intersection of systems engineering, infrastructure, and applied research. I care about building things that are correct, maintainable, and don't collapse under real load.
 
 ---
