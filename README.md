@@ -18,14 +18,10 @@ My work lives at the intersection of systems engineering, infrastructure, and ap
 
 ---
 
-## What I work with
+## Research
 
-**Core:** Flutter / Dart, Rust, C/C++, Node.js, React / Next.js  
-**Infrastructure & DevOps:** Docker, AWS, CI/CD, Redis, PostgreSQL, NGINX  
-**ML & Systems:** Python, HPC infrastructure, retrieval-augmented pipelines  
-**Also explored:** Solidity, low-level networking, WebAssembly, systems tooling  
-
-I pick tools based on what the system actually needs, not what's trending.
+I work on problems in time-series forecasting and conversational AI systems.
+Some of it has been published at peer-reviewed conferences among the best in the field.
 
 ---
 
