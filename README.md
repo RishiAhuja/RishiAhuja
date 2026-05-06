@@ -6,7 +6,6 @@
   <a href="mailto:rishia.it.24@nitj.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=email"></a>
 </p>
 
----
 
 I build systems — from mobile interfaces to backend infrastructure, production DevOps, and ML pipelines that run at scale.
 
@@ -16,14 +15,10 @@ Previously an Entrepreneur in Residence at iHub-AWaDH (IIT Ropar), where I led t
 
 My work lives at the intersection of systems engineering, infrastructure, and applied research. I care about building things that are correct, maintainable, and don't collapse under real load.
 
----
-
 ## Research
 
 I work on problems in time-series forecasting and conversational AI systems.
 Some of it has been published at peer-reviewed conferences among the best in the field.
-
----
 
 ## Writing
 
