@@ -1,6 +1,6 @@
 # Rishi Ahuja
 <p align="left">
-  <a href="https://www.linkedin.com/in/rishi-ahuja" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/rishi-ahuja-b1a224310/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"></a>
   <a href="https://rishia.in" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-rishia.in-black?style=flat-square"></a>
   <a href="https://rishi2220.hashnode.dev" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode"></a>
   <a href="mailto:rishia.it.24@nitj.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=email"></a>
