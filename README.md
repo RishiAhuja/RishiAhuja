@@ -29,4 +29,4 @@ My technical blog covers deep breakdowns and post-mortems. My personal essays li
 ---
 
 **Find me:**  
-[rishia.in](https://rishia.in) • [LinkedIn](https://www.linkedin.com/in/rishi-ahuja) • [rishia.it.24@nitj.ac.in](mailto:rishia.it.24@nitj.ac.in)
+[rishia.in](https://rishia.in) • [LinkedIn](https://www.linkedin.com/in/rishi-ahuja-b1a224310/) • [rishia.it.24@nitj.ac.in](mailto:rishia.it.24@nitj.ac.in)
