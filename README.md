@@ -1,32 +1,49 @@
 # Rishi Ahuja
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/rishi-ahuja-b1a224310/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin"></a>
-  <a href="https://rishia.in" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-rishia.in-black?style=flat-square"></a>
-  <a href="https://rishi2220.hashnode.dev" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode"></a>
-  <a href="mailto:rishia.it.24@nitj.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=email"></a>
+  <a href="https://www.linkedin.com/in/rishi2220/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin">
+  </a>
+
+  <a href="https://rishia.in" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-rishia.in-black?style=flat-square">
+  </a>
+
+  <a href="https://rishia.in/research" target="_blank">
+    <img alt="Research" src="https://img.shields.io/badge/Research-rishia.in%2Fresearch-6f42c1?style=flat-square">
+  </a>
+
+  <a href="https://rishia.in/blog" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-rishia.in%2Fblog-2962FF?style=flat-square">
+  </a>
+
+  <a href="mailto:rishia.it.24@nitj.ac.in">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail">
+  </a>
 </p>
 
+I'm an undergraduate researcher and engineer interested in AI systems, applied machine learning, and reliable software infrastructure.
 
-I build systems — from mobile interfaces to backend infrastructure, production DevOps, and ML pipelines that run at scale.
+Currently pursuing a B.Tech. with Research in Information Technology at NIT Jalandhar and joining Cisco as an incoming intern.
 
-Currently a Software Engineer at Zenbase Technologies (Singapore), where I architect DevOps infrastructure and event-driven backend workflows for AI agent capabilities — production systems built on Dockerized monorepos, async callback workers, and real-time API integrations.
+I've worked across research and production engineering, from conversational AI and long-horizon agent systems to backend infrastructure, ML pipelines, and medical imaging.
 
-Previously an Entrepreneur in Residence at iHub-AWaDH (IIT Ropar), where I led the technical development of an Agri-Tech venture — translating research into deployable products, defining system architecture, and presenting roadmaps to high-level government delegations.
-
-My work lives at the intersection of systems engineering, infrastructure, and applied research. I care about building things that are correct, maintainable, and don't collapse under real load.
+Previously, I've worked with Zenbase Technologies, Singapore and IIT Ropar, building production AI systems and research-driven software.
 
 ## Research
 
-I work on problems in time-series forecasting and conversational AI systems.
-Some of it has been published at peer-reviewed conferences among the best in the field.
+My research spans conversational AI, trustworthy AI systems, long-horizon reasoning, and medical imaging.
+
+For publications, projects, and ongoing research:
+[rishia.in/research](https://rishia.in/research)
 
 ## Writing
 
-I write about systems, architecture decisions, infrastructure experiments, and sometimes things that don't compile cleanly into code.
+I occasionally write about systems, research, engineering decisions, and things I learn while building.
 
-My technical blog covers deep breakdowns and post-mortems. My personal essays live at [rishia.in/blog](https://rishia.in/blog) — less structured, more honest.
+[rishia.in/blog](https://rishia.in/blog)
 
 ---
 
 **Find me:**  
-[rishia.in](https://rishia.in) • [LinkedIn](https://www.linkedin.com/in/rishi-ahuja-b1a224310/) • [rishia.it.24@nitj.ac.in](mailto:rishia.it.24@nitj.ac.in)
+[rishia.in](https://rishia.in) · [LinkedIn](https://www.linkedin.com/in/rishi2220/) · [rishia.it.24@nitj.ac.in](mailto:rishia.it.24@nitj.ac.in)
